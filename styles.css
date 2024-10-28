@@ -1,0 +1,16 @@
+body{
+    background-color: lightcoral;
+    font-family: "Verdana", sans-serif;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 64px;
+}
+ul,
+ol{
+    font-size: 24px;
+}
+a{
+    color: antiquewhite;
+}
