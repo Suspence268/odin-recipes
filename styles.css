@@ -12,5 +12,12 @@ ol{
     font-size: 24px;
 }
 a{
-    color: antiquewhite;
+    color: whitesmoke;
+}
+.container{
+    background-color: lightblue;
+    padding: 30px;
+    margin:30px 500px;
+    border: solid  antiquewhite 12px;
+    border-radius: 30px;
 }
